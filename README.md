@@ -1,1 +1,1 @@
-Lern python just for fun
+Learn python just for fun
